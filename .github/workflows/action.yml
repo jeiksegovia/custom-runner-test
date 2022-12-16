@@ -6,6 +6,6 @@ jobs:
   init:
     runs-on: self-hosted
     steps:
-      - run: echo 'hello jk"
+      - run: echo 'hello jk'
       - run: echo $HOSTNAME
     
